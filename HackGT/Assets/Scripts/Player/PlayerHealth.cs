@@ -74,6 +74,7 @@ public class PlayerHealth : MonoBehaviour {
         //make menu pop up
         //restart game
         menu.SetActive(true);
+        Destroy(winMenu);
         Cursor.visible = true;
         Cursor.lockState = CursorLockMode.None;
 
