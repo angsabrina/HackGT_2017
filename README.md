@@ -1,4 +1,4 @@
-# Chronos Island
+# Kronos Island
 A Unity FPS built by Chunlok Lo and Sabrina Ang for HackGT
 
 You are an adventurer stuck on an island with some deadly killers. Given a gun by a mysterious anonymous wizard who also gave you time stopping powers, the catch was you could only use your gun while time stopping. Though the journey will be hard, there will be help along the way. The mysterious wizard has left in his wake red vials that increase your health, should it dip too low, and also has helped you escape some assassins by opening portals.
